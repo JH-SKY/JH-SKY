@@ -8,11 +8,24 @@
 </div>
 
 ## 👤 About JH
-> **"도봉캠퍼스 3기 AI 서비스 개발 교육자 이종혁입니다."**
+> **"도봉캠퍼스 3기 AI 서비스 개발 교육자 이종혁입니다."**  
+> 사용자 경험을 고려한 기능 구현과, 문제의 원인을 끝까지 파고드는 개선을 중요하게 생각합니다.
 
 - 🔭 **현재 목표**: 알고리즘 정복 및 실무급 AI 서비스 구현 역량 강화
 - ⚡ **성격/스타일**: 같이 일하면 재미있는, 에너지 넘치는 열정적인 성격
+- 🌐 **Personal Website**: https://jh-sky.github.io/dobong-portfolio-ux
+- 🧩 **Mini Projects Repo**: https://github.com/JH-SKY/Dobong-Practice
 - 📧 **Contact**: whdgur2034@naver.com
+
+## 🚀 Featured Projects
+> 개인 브랜딩과 반응형 UI 실습을 목표로 제작한 대표 프로젝트입니다.
+
+### 🌐 Responsive Portfolio Site
+- 반응형 레이아웃 기반 개인 포트폴리오 사이트
+- 모바일 환경에서 발생하던 UI 겹침 문제 분석 및 해결
+- Favicon 및 인터랙션 개선을 통한 UX 완성도 향상
+- 🔗 Repo: https://github.com/JH-SKY/dobong-portfolio-ux
+- 🌐 Live: https://jh-sky.github.io/dobong-portfolio-ux/
 
 ---
 
@@ -51,13 +64,13 @@
 - [x] 도봉캠퍼스 3기: AI 서비스 개발자 과정 입문
 - [x] [Git] 협업을 위한 Fork & Pull Request 실무 프로세스 정립
 
-- ## 📈 My Activity
+## 📈 My Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH-SKY&show_icons=true&theme=radical&hiding_rank=true" alt="JH's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JH-SKY&show_icons=true&theme=radical&hide_rank=true" alt="JH's GitHub Stats" />
 </div>
 
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
--
+## 🧠 Lessons Learned
+
+- 반응형 레이아웃에서 `position: sticky` 사용 시 발생할 수 있는 UI 겹침 문제를 직접 경험
+- 단순 스타일 수정이 아닌, 해상도별 레이아웃 흐름을 분석하며 문제를 해결
+- 작은 UI 디테일(Favicon, 인터랙션 개선)이 전체 서비스 완성도에 큰 영향을 준다는 점을 체감
