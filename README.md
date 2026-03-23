@@ -14,8 +14,10 @@
 - 🔭 **현재 목표**: 알고리즘 정복 및 실무급 AI 서비스 구현 역량 강화
 - ⚡ **성격/스타일**: 같이 일하면 재미있는, 에너지 넘치는 열정적인 성격
 - 🌐 **Personal Website**: https://jh-sky.github.io/dobong-portfolio-ux
+- 🌐 **dev Blog**: https://velog.io/@jh-sky/posts (기획 의도와 생각의 흐름을 기록하는 공간)
 - 🧩 **Mini Projects Repo**: https://github.com/JH-SKY/Dobong-Practice
 - 📧 **Contact**: whdgur2034@naver.com
+- 
 
 ## 🚀 Featured Projects
 > 개인 브랜딩과 반응형 UI 실습을 목표로 제작한 대표 프로젝트입니다.
