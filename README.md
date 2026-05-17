@@ -1,5 +1,7 @@
 # JH-SKY
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4A90D9?style=flat-square)](https://JH-SKY.github.io/portfolio-v2/)
+
 FastAPI 기반 백엔드와 LangGraph 기반 AI 에이전트를 직접 설계·구현하며 AI 서비스 개발 역량을 쌓고 있습니다.
 
 기능을 빠르게 만드는 것보다 **문제를 정의하고, 구조를 설계하고, 실험 결과를 바탕으로 끝까지 개선하는 과정**을 중요하게 생각합니다.
@@ -135,6 +137,7 @@ LangGraph 기반 멀티 에이전트 면접 질문 자동 생성 시스템입니
 
 - Email: whdgur2034@naver.com
 - GitHub: [JH-SKY](https://github.com/JH-SKY)
+- Portfolio: [JH-SKY.github.io/portfolio-v2](https://JH-SKY.github.io/portfolio-v2/)
 
 ---
 
